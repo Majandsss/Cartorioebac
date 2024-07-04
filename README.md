@@ -1,2 +1,2 @@
 # Cartorioebac
-Projeto curso de TI da Ebac
+Projeto registro, consulta e deleção de nomes
